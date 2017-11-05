@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Who-Is</string>
+    <string name="label_false">Falso</string>
+    <string name="label_true">Verdadero</string>
+</resources>
